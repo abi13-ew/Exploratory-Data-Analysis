@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Exploratory Data Analysis (EDA) – Titanic Dataset
 
 ## 🔹 Overview
@@ -60,3 +61,6 @@ eda-project/
 ```bash
 pip install -r requirements.txt
 jupyter notebook
+=======
+# Exploratory-Data-Analysis
+>>>>>>> 43250e787be762e04519fff44cbcd7823c146e65
